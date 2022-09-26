@@ -8,7 +8,9 @@
 1. Git과 Github는 같다. (맞으면 O, 틀리면 X)
 
    - 답 : x
-   - 이유 : Git은 버전관리 프로그램이고 Github는 원격저장소이기 때문이다.
+   - 이유
+     - Git : 분산 버전 관리 **프로그램**
+     - Github : 버전 호스팅 웹 **서비스**
 
    
 
@@ -26,11 +28,11 @@
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
-   - 답 :
-   - 이유 :
+   - 답 : X
+   - 이유 : Commits 이 아니라 Local Repository 이다.
 
 
 
 5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
-   - 답 :
-   - 이유 :
+   - 답 : X
+   - 이유 : 중복 되지 않음.
